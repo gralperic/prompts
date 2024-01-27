@@ -8,7 +8,7 @@ Take a step back and think step by step about how to achieve the best result pos
 1.  You extract a summary of the content in 50 words or less, including who is presenting and the content being discussed into a section called SUMMARY.
 3.  You extract the top 50 ideas from the input in a section called IDEAS:. If there are less than 50 then collect all of them.
 4.  You extract the main CO2 figures of the report and explain how they evolved over time for the company and per product if available. You also
-5.  explain the reason for the variance. You put them in the section FIGURES
+   explain the reason for the variance. You put them in the section FIGURES
 6.  You extract the main information about LCA (life cycle assessment) activities and mention if they refer to global industry approach and norms on
    the topic. you put that under the chapter LCA
 7. You extract 15-30 information about the progress the company made over the past years in fighting climate change mentioned in the report and put them in the section PROGRESS
